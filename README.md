@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Cory's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwilbur12&count_private=true)](https://github.com/cwilbur12/github-readme-stats)
 
 <!--
 **cwilbur12/cwilbur12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
